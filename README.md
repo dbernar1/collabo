@@ -1,0 +1,2 @@
+# collabo
+### a Sails application
